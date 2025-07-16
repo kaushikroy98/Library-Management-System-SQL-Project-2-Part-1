@@ -283,4 +283,4 @@ where return_date is null;
 
 Kaushik Roy
 - **Email**: 1998kaushik.roy@gmail.com
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/kaushikroy98/)
+- **LinkedIn**: [https://www.linkedin.com/in/kaushikroy98/](https://www.linkedin.com/in/kaushikroy98/)

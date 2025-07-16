@@ -34,7 +34,6 @@ Library-Management-System-Beginner/
 
 ##**1. Database Setup**
 
-![ER Diagram](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)
 ## 🧱 Database Schema
 
 The schema consists of the following tables and relationships:
@@ -45,6 +44,8 @@ The schema consists of the following tables and relationships:
 - **books**: Book inventory and metadata
 - **issued_status**: Issued book transactions (FK to books, members, employees)
 - **return_status**: Returned book transactions (FK to issued_status)
+
+![ER Diagram](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)
 
 - **Database Creation**: Created a database named `project_2_library`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -143,15 +144,9 @@ FOREIGN key (issued_id)
 REFERENCES issued_status(issued_id);
 ```
 
-
-
-
-
-
-
 ## ✅ Tasks Covered (Q1–Q12)
 
-##**2 🔧 CRUD & Data Operations**
+##2 🔧 CRUD & Data Operations**
 
 1. **Create a New Book Record**  
    

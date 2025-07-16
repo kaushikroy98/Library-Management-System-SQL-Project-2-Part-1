@@ -32,7 +32,7 @@ Library-Management-System-Beginner/
 
 ### Project Structure
 
-##**1. Database Setup**
+##1. Database Setup
 
 ## 🧱 Database Schema
 
@@ -197,7 +197,7 @@ select b.isbn,b.book_title as book_name, count(*) book_issued_count from books b
 join issued_status i
 on b.isbn=i.issued_book_isbn
 group by 1,2;
-``
+```
 ---
 
 -- ##4. Data Exploration & Insights
@@ -274,4 +274,13 @@ where return_date is null;
 
 ## 📌 How to Use
 
-1. Clone the repo  
+1. **Clone the Repository**
+2. **Set Up the Database**
+3. **Run the Queries**
+4. **Explore and Modify**
+
+## Contact
+
+Kaushik Roy
+- **Email**: 1998kaushik.roy@gmail.com
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/kaushikroy98/)

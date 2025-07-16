@@ -30,12 +30,11 @@ Library-Management-System-Beginner/
 
 ---
 
-## Project Structure
+### Project Structure
 
-##1. Database Setup
+###**1. Database Setup**
 
-![ER Diagram]([https://github.com/your-username/Library-System-Management/blob/main/library_erd.png](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)) 
-
+![ER Diagram](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)
 ## 🧱 Database Schema
 
 The schema consists of the following tables and relationships:
@@ -47,7 +46,6 @@ The schema consists of the following tables and relationships:
 - **issued_status**: Issued book transactions (FK to books, members, employees)
 - **return_status**: Returned book transactions (FK to issued_status)
 
-![ER Diagram]([https://github.com/your-username/Library-System-Management/blob/main/library_erd.png](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)) 
 
 ---
 ## Database Creation

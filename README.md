@@ -1,1 +1,1 @@
-# Library-Management-System-Projet1-Part1-using-PostgreSQL_&_MySQL_Workbench
+# Begginer-Library-Management-System-Projet2-Part1-using-PostgreSQL_&_MySQL_Workbench

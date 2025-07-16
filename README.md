@@ -18,7 +18,8 @@ Welcome to **Part 1** of my SQL-based **Library Management System Project**, foc
 
 ## 📁 File Structure
 
-```sqlLibrary-Management-System-Beginner/
+```sql
+Library-Management-System-Beginner/
 │
 ├── 📄 Schema.sql → Contains CREATE TABLE statements for all entities
 ├── 📄 insert_data.sql → Inserts sample data into tables (members, books, employees, etc.)
@@ -28,6 +29,12 @@ Welcome to **Part 1** of my SQL-based **Library Management System Project**, foc
 
 
 ---
+
+## Project Structure
+
+##1. Database Setup
+
+![ER Diagram]([https://github.com/your-username/Library-System-Management/blob/main/library_erd.png](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)) 
 
 ## 🧱 Database Schema
 
@@ -40,9 +47,13 @@ The schema consists of the following tables and relationships:
 - **issued_status**: Issued book transactions (FK to books, members, employees)
 - **return_status**: Returned book transactions (FK to issued_status)
 
-![ER Diagram](https://github.com/your-username/Library-System-Management/blob/main/library_erd.png) <!-- Replace with your actual image link if available -->
+![ER Diagram]([https://github.com/your-username/Library-System-Management/blob/main/library_erd.png](https://github.com/kaushikroy98/Library-Management-System-SQL-Project-2-Part-1/blob/main/Library_ERD.png)) 
 
 ---
+## Database Creation
+
+
+
 
 ## ✅ Tasks Covered (Q1–Q12)
 

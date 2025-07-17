@@ -284,3 +284,10 @@ where return_date is null;
 Kaushik Roy
 - **Email**: 1998kaushik.roy@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/kaushikroy98/](https://www.linkedin.com/in/kaushikroy98/)
+
+## ⭐ Like this project?
+
+If you found this project helpful:
+- Star 🌟 the repo
+- Share it with fellow learners
+- Fork it and try your own customizations!
